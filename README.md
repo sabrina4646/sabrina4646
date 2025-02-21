@@ -14,7 +14,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](http
 
 <p align="left">
 <a href="https://github.com/sabrina4646">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabrina4646&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabrina4646&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabrina4646&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrina4646&layout=compact&theme=algolia"/>
 </a>
 </p>
