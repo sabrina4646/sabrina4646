@@ -11,3 +11,10 @@ Saya sedang menempuh pendidikan di Universitas Kuningan dengan Jurusan Sistem In
 Saya sedang mengikuti camp di Dicoding X DBS Foundation.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/sabrina-maulidya-021907236/)ku ya.
+
+<p align="left">
+<a href="https://github.com/sabrina4646">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabrina4646&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabrina4646&layout=compact&theme=algolia"/>
+</a>
+</p>
