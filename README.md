@@ -10,7 +10,7 @@ Saya sedang menempuh pendidikan di Universitas Kuningan dengan Jurusan Sistem In
 
 Saya sedang mengikuti camp di Dicoding X DBS Foundation.<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/sabrina-maulidya-021907236/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [LinkedIn](https://www.linkedin.com/in/sabrina-maulidya-021907236/) ku ya.
 
 <p align="left">
 <a href="https://github.com/sabrina4646">
